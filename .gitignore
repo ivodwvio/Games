@@ -6,6 +6,6 @@
 *.suo
 *.ilk
 *.pdb
+*.exe
 ipch/
 Debug/
-!Engine/Debug/

@@ -19,8 +19,12 @@ void hiworld()
 void variables()
 {
 	int tempInt;
+	float tempFloat = 32.6543543324f;
+	double tempDouble = 32.6543543324;
 
 	tempInt = 45;
 
 	cout << "tempInt = " << tempInt << endl;
+	cout << "tempFloat = " << tempFloat << endl;
+	cout << "tempDouble = " << tempDouble << endl;
 }
